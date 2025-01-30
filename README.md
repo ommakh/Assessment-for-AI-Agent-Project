@@ -27,3 +27,8 @@ View analytics: /analytics
 View dashboard: /dashboard
 Send messages to chat with AI.
 Upload images/files for analysis.
+
+Use of ai tools 
+chatgpt:used for documentation
+gemini-ai:to understand documentation
+lama3.2: to add new feature of dashboad generation using matplotlib and seaborn
