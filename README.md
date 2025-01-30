@@ -3,10 +3,15 @@ This is a Telegram bot powered by Google Gemini AI, MongoDB, and Python. It prov
 Features
 
 User Registration: Stores user details in MongoDB.
-AI Chat: Answers user queries using Google Gemini API.
+
+AI Chat: Answers user queries using Google Gemini API.'
+
 Image/File Analysis: Processes images and documents, generating descriptions.
+
 Web Search: Allows users to perform AI-powered searches.
+
 Sentiment Analysis: Analyzes the sentiment of user messages.
+
 User Analytics & Dashboard: Provides insights into user interactions.
 
 Requirements
@@ -22,13 +27,19 @@ pip install -r requirements.txt
 Usage
 
 Start the bot: /start
+
 Perform a web search: /websearch
+
 View analytics: /analytics
+
 View dashboard: /dashboard
+
 Send messages to chat with AI.
+
 Upload images/files for analysis.
 
 Use of ai tools 
+
 chatgpt:used for documentation
 
 gemini-ai:to understand documentation
